@@ -1,0 +1,42 @@
+[
+    {
+      "id_toko": "1",
+      "nama_toko": "Penyet Kuah",
+      "id_makanan": "1",
+      "nama_makanan": "Sop Dengkul",
+      "harga":"15000",
+      "image": "https://www.barcelonabeercompany.com/archivos/beer-barcelona-beer_140716141755.jpg"
+    },
+    {
+      "id_toko": "2",
+      "nama_toko": "Penyet Kuah",
+      "id_makanan": "1",
+      "nama_makanan": "Sop Dengkul",
+      "harga":"15000",
+      "image": "https://www.barcelonabeercompany.com/archivos/beer-barcelona-beer_140716141755.jpg"
+    },
+    {
+      "id_toko": "3",
+      "nama_toko": "Penyet Kuah",
+      "id_makanan": "1",
+      "nama_makanan": "Sop Dengkul",
+      "harga":"15000",
+      "image": "https://www.barcelonabeercompany.com/archivos/beer-barcelona-beer_140716141755.jpg"
+    },
+    {
+      "id_toko": "4",
+      "nama_toko": "Penyet Kuah",
+      "id_makanan": "1",
+      "nama_makanan": "Sop Dengkul",
+      "harga":"15000",
+      "image": "https://www.barcelonabeercompany.com/archivos/beer-barcelona-beer_140716141755.jpg"
+    },
+    {
+      "id_toko": "5",
+      "nama_toko": "Penyet Kuah",
+      "id_makanan": "1",
+      "nama_makanan": "Sop Dengkul",
+      "harga":"15000",
+      "image": "https://www.barcelonabeercompany.com/archivos/beer-barcelona-beer_140716141755.jpg"
+    }
+  ]
